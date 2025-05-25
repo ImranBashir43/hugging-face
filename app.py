@@ -1,6 +1,6 @@
 from transformers import pipeline
 import gradio as gr
-
+#adding comment to execute github actions in demo
 
 model = pipeline(
     "summarization",
